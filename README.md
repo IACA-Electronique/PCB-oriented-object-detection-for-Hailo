@@ -30,7 +30,15 @@ using YOLO11 with Oriented Bounding Boxes (OBB). The model is optimized for depl
 
 ---
 
-## Steps
+## Release
+
+▶️ Download the latest model in Hailo format [here](https://repo.os.iaca-electronique.com/ai/hailo/models/training/pcb-1/latest.hef).
+
+> **IMPORTANT:** The model is only optimized for the Hailo-10H module.
+
+___
+
+## Reproduce
 
 1. [Download model](#setup)
 2. [Convert model to `ONNX` format](#1-convert-model-to-onnx-format) 
